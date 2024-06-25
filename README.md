@@ -4,6 +4,7 @@
 
 ## Материалы
 - Дизайн макет: https://www.figma.com/design/GjxMo10M79kmPv5mOJpP5s/Travel-App-Test-case-(Appdvlprs)
+- Шрифт: https://fonts.google.com/noto/specimen/Noto+Sans?query=Noto+sans
 - API: https://rapidapi.com/RyanFin/api/mountain-api1
 
 ## Требования:
